@@ -1,0 +1,6 @@
+{
+  "name": "Zall Floating Browser",
+  "description": "Mini floating overlay web browser designed for multitasking while gaming or using other apps with floating bubble, resizable window, stealth mode, and quick controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
